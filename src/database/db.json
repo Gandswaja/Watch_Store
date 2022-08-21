@@ -1,0 +1,428 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Watch_1",
+      "category": "",
+      "brand": "Rolex",
+      "rating": [],
+      "colour": "",
+      "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Voluptatibus similique optio delectus dolores corrupti, nostrum dolore harum possimus ipsam accusamus architecto culpa tenetur illum error sed dolorum? Libero, voluptas harum?",
+      "price": 250000000,
+      "stock": 13,
+      "images": [
+        "https://images.unsplash.com/photo-1600003014637-ff82a275e191?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=711&q=80",
+        "https://images.unsplash.com/photo-1600003014755-ba31aa59c4b6?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+        "https://images.unsplash.com/photo-1600003014755-ba31aa59c4b6?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"
+      ]
+      },
+    {
+      "id": 2,
+      "name": "Watch_2",
+      "category": "",
+      "brand": "Rolex",
+      "rating": [],
+      "colour": "",
+      "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Voluptatibus similique optio delectus dolores corrupti, nostrum dolore harum possimus ipsam accusamus architecto culpa tenetur illum error sed dolorum? Libero, voluptas harum?",
+      "price": 150000000,
+      "stock": 10,
+      "images": [
+        "https://images.pexels.com/photos/68201/male-watch-wrist-watch-packshot-time-68201.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "https://images.pexels.com/photos/68201/male-watch-wrist-watch-packshot-time-68201.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "https://images.pexels.com/photos/68201/male-watch-wrist-watch-packshot-time-68201.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Watch_3",
+      "category": "",
+      "brand": "Rolex",
+      "rating": [],
+      "colour": "",
+      "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Voluptatibus similique optio delectus dolores corrupti, nostrum dolore harum possimus ipsam accusamus architecto culpa tenetur illum error sed dolorum? Libero, voluptas harum?",
+      "price": 170000000,
+      "stock": 9,
+      "images": [
+        "https://images.pexels.com/photos/1186851/pexels-photo-1186851.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "https://images.pexels.com/photos/1186851/pexels-photo-1186851.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "https://images.pexels.com/photos/1186851/pexels-photo-1186851.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+      
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Watch_4",
+      "category": "",
+      "brand": "Rolex",
+      "rating": [],
+      "colour": "",
+      "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Voluptatibus similique optio delectus dolores corrupti, nostrum dolore harum possimus ipsam accusamus architecto culpa tenetur illum error sed dolorum? Libero, voluptas harum?",
+      "price": 260000000,
+      "stock": 10,
+      "images": [
+        "https://images.unsplash.com/photo-1548171916-c0dea7f94ca6?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=430&q=80",
+        "https://images.unsplash.com/photo-1548171916-c0dea7f94ca6?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=430&q=80",
+        "https://images.unsplash.com/photo-1548171916-c0dea7f94ca6?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=430&q=80"
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Watch_5",
+      "category": "",
+      "brand": "FOSSIL",
+      "rating": [],
+      "colour": "",
+      "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Voluptatibus similique optio delectus dolores corrupti, nostrum dolore harum possimus ipsam accusamus architecto culpa tenetur illum error sed dolorum? Libero, voluptas harum?",
+      "price": 250000000,
+      "stock": 12,
+      "images": [
+       "https://images.pexels.com/photos/1120275/pexels-photo-1120275.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+       "https://images.pexels.com/photos/1120275/pexels-photo-1120275.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+       "https://images.pexels.com/photos/1120275/pexels-photo-1120275.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Watch_6",
+      "category": "",
+      "brand": "Audemars",
+      "rating": [],
+      "colour": "",
+      "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Voluptatibus similique optio delectus dolores corrupti, nostrum dolore harum possimus ipsam accusamus architecto culpa tenetur illum error sed dolorum? Libero, voluptas harum?",
+      "price": 190000000,
+      "stock": 10,
+      "images": [
+       "https://images.pexels.com/photos/1353065/pexels-photo-1353065.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+       "https://images.pexels.com/photos/1353065/pexels-photo-1353065.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+       "https://images.pexels.com/photos/1353065/pexels-photo-1353065.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" ]
+    },
+    {
+      "id": 7,
+      "name": "Watch_7",
+      "category": "",
+      "brand": "Rolex",
+      "rating": [],
+      "colour": "",
+      "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Voluptatibus similique optio delectus dolores corrupti, nostrum dolore harum possimus ipsam accusamus architecto culpa tenetur illum error sed dolorum? Libero, voluptas harum?",
+      "price": 90000000,
+      "stock": 8,
+      "images": [
+        "https://images.pexels.com/photos/9982617/pexels-photo-9982617.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "https://images.pexels.com/photos/9982617/pexels-photo-9982617.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "https://images.pexels.com/photos/9982617/pexels-photo-9982617.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+      ]
+    },
+    {
+      "id": 8,
+      "name": "Watch_8",
+      "category": "",
+      "brand": "Rolex",
+      "rating": [],
+      "colour": "",
+      "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Voluptatibus similique optio delectus dolores corrupti, nostrum dolore harum possimus ipsam accusamus architecto culpa tenetur illum error sed dolorum? Libero, voluptas harum?",
+      "price": 50000000,
+      "stock": 12,
+      "images": [
+       "https://images.pexels.com/photos/9878200/pexels-photo-9878200.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+       "https://images.pexels.com/photos/9878200/pexels-photo-9878200.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+       "https://images.pexels.com/photos/9878200/pexels-photo-9878200.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+      ]
+    },
+    {
+      "id": 9,
+      "name": "Watch_9",
+      "category": "",
+      "brand": "Rolex",
+      "rating": [],
+      "colour": "",
+      "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Voluptatibus similique optio delectus dolores corrupti, nostrum dolore harum possimus ipsam accusamus architecto culpa tenetur illum error sed dolorum? Libero, voluptas harum?",
+      "price": 50000000,
+      "stock": 12,
+      "images": [
+      "https://cdn.pixabay.com/photo/2014/07/31/23/00/wristwatch-407096_960_720.jpg",
+      "https://cdn.pixabay.com/photo/2014/07/31/23/00/wristwatch-407096_960_720.jpg",
+      "https://cdn.pixabay.com/photo/2014/07/31/23/00/wristwatch-407096_960_720.jpg"
+    ]
+    },
+    {
+      "id": 10,
+      "name": "Watch_10",
+      "category": "",
+      "brand": "Rolex",
+      "rating": [],
+      "colour": "",
+      "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Voluptatibus similique optio delectus dolores corrupti, nostrum dolore harum possimus ipsam accusamus architecto culpa tenetur illum error sed dolorum? Libero, voluptas harum?",
+      "price": 50000000,
+      "stock": 12,
+      "images": [
+       "https://images.pexels.com/photos/9423283/pexels-photo-9423283.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+       "https://images.pexels.com/photos/9423283/pexels-photo-9423283.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+       "https://images.pexels.com/photos/9423283/pexels-photo-9423283.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+     
+      ]
+    },
+    {
+      "id": 11,
+      "name": "Watch_11",
+      "category": "",
+      "brand": "Rolex",
+      "rating": [],
+      "colour": "",
+      "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Voluptatibus similique optio delectus dolores corrupti, nostrum dolore harum possimus ipsam accusamus architecto culpa tenetur illum error sed dolorum? Libero, voluptas harum?",
+      "price": 50000000,
+      "stock": 12,
+      "images": [
+      "https://images.pexels.com/photos/190819/pexels-photo-190819.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "https://images.pexels.com/photos/190819/pexels-photo-190819.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "https://images.pexels.com/photos/190819/pexels-photo-190819.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+      ]
+    },
+    {
+      "id": 12,
+      "name": "Watch_12",
+      "category": "",
+      "brand": "Rolex",
+      "rating": [],
+      "colour": "",
+      "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Voluptatibus similique optio delectus dolores corrupti, nostrum dolore harum possimus ipsam accusamus architecto culpa tenetur illum error sed dolorum? Libero, voluptas harum?",
+      "price": 50000000,
+      "stock": 12,
+      "images": [
+      "https://images.pexels.com/photos/280250/pexels-photo-280250.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "https://images.pexels.com/photos/280250/pexels-photo-280250.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "https://images.pexels.com/photos/280250/pexels-photo-280250.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+      ]
+    }
+  ],
+  "slider": [
+    {
+      "image": "https://images.unsplash.com/photo-1580658001207-ccd9b884191c?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80",      
+      "title": "Quality Never Goes Out of Style"
+    },
+    {
+      "image": "https://images.unsplash.com/photo-1617317376997-8748e6862c01?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+      "title": "Best Quality Guaranteed"
+    },
+    {
+      "image": "https://images.unsplash.com/photo-1546525506-495a7647977b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+      "title": "Leading Innovation"
+    },
+    {
+      "image": "https://images.unsplash.com/photo-1613710774862-d813121e6d44?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+      "title": "Life’s Good"
+    },
+    {
+      "image": "https://images.unsplash.com/photo-1604242692760-2f7b0c26856d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=869&q=80",
+      "title": "Ideas for Life"
+    },
+    {
+      "image": "https://images.unsplash.com/photo-1511370235399-1802cae1d32f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=855&q=80",   
+      "title": "Make Believe"
+    }
+  ],
+  "users": [
+    {
+      "username": "admin",
+      "password": "admin",
+      "email": "admin@gmail.com",
+      "role": "admin",
+      "cart": [],
+      "id": 1
+    },
+    {
+      "username": "Sutrisno",
+      "password": "Sutrisno123",
+      "email": "trisno@gmail.com",
+      "role": "user",
+      "cart": [],
+      "id": 2
+    },
+    {
+      "username": "nurul123",
+      "email": "nurulcus@gmail.com",
+      "password": "nurul123#",
+      "role": "user",
+      "cart": [],
+      "id": 3
+    },
+    {
+      "username": "nurul2000",
+      "email": "nurulcu1@gmail.com",
+      "password": "!nurul123",
+      "role": "user",
+      "cart": [],
+      "id": 4
+    },
+    {
+      "username": "coba123",
+      "email": "coba1@gmail.com",
+      "password": "coba123!",
+      "role": "user",
+      "cart": [],
+      "id": 5
+    },
+    {
+      "username": "coba123",
+      "email": "coba1@gmail.com",
+      "password": "coba123!",
+      "role": "user",
+      "cart": [],
+      "id": 6
+    },
+    {
+      "username": "nuroel",
+      "email": "nuroel@gmail.com",
+      "password": "nuroel123!",
+      "role": "user",
+      "cart": [],
+      "id": 7
+    },
+    {
+      "username": "nuroel",
+      "email": "nuroel@gmail.com",
+      "password": "nuroel123!",
+      "role": "user",
+      "cart": [],
+      "id": 8
+    }
+  ],
+  "history": [
+    {
+      "idUser": 2,
+      "username": "Sutrisno",
+      "time": "5/13/2022, 7:48:21 PM",
+      "products": [
+        {
+          "id": 2,
+          "name": "Watch_2",
+          "image": "https://images.unsplash.com/photo-1600003014637-ff82a275e191?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=711&q=80",
+          "price": 150000000,
+          "qty": 1,
+          "stock": 10
+        },
+        {
+          "id": 2,
+          "name": "Watch_2",
+          "image": "https://images.unsplash.com/photo-1600003014637-ff82a275e191?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=711&q=80",
+          "price": 150000000,
+          "qty": 1,
+          "stock": 10
+        }
+      ],
+      "id": 5
+    },
+    {
+      "idUser": 2,
+      "username": "Sutrisno",
+      "time": "5/13/2022, 8:38:03 PM",
+      "products": [
+        {
+          "id": 3,
+          "name": "Watch_3",
+          "image": "https://images.unsplash.com/photo-1548171838-1fd4cb4ab854?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80",
+          "price": 170000000,
+          "qty": 3,
+          "stock": 9
+        }
+      ],
+      "id": 6
+    },
+    {
+      "idUser": 2,
+      "username": "Sutrisno",
+      "time": "5/13/2022, 8:41:59 PM",
+      "products": [
+        {
+          "id": 3,
+          "name": "Watch_3",
+          "image": "https://images.unsplash.com/photo-1548171838-1fd4cb4ab854?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80",
+          "price": 170000000,
+          "qty": 4,
+          "stock": 9
+        }
+      ],
+      "id": 7
+    },
+    {
+      "idUser": 2,
+      "username": "Sutrisno",
+      "time": "5/13/2022, 8:48:45 PM",
+      "products": [
+        {
+          "id": 2,
+          "name": "Watch_2",
+          "image": "https://images.unsplash.com/photo-1600003014637-ff82a275e191?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=711&q=80",
+          "price": 150000000,
+          "qty": 3,
+          "stock": 10
+        }
+      ],
+      "id": 8
+    },
+    {
+      "idUser": 2,
+      "username": "Sutrisno",
+      "time": "5/13/2022, 9:07:04 PM",
+      "products": [
+        {
+          "id": 2,
+          "name": "Watch_2",
+          "image": "https://images.unsplash.com/photo-1600003014637-ff82a275e191?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=711&q=80",
+          "price": 150000000,
+          "qty": 1,
+          "stock": 10
+        }
+      ],
+      "id": 9
+    },
+    {
+      "idUser": 2,
+      "username": "Sutrisno",
+      "time": "5/13/2022, 9:10:06 PM",
+      "products": [
+        {
+          "id": 2,
+          "name": "Watch_2",
+          "image": "https://images.unsplash.com/photo-1600003014637-ff82a275e191?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=711&q=80",
+          "price": 150000000,
+          "qty": 10,
+          "stock": 10
+        }
+      ],
+      "id": 10
+    },
+    {
+      "idUser": 2,
+      "username": "Sutrisno",
+      "time": "5/16/2022, 4:10:03 AM",
+      "products": [
+        {
+          "id": 4,
+          "name": "Watch_4",
+          "image": "https://images.unsplash.com/photo-1548171916-c0dea7f94ca6?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=430&q=80",
+          "price": 260000000,
+          "qty": 3,
+          "stock": 10
+        }
+      ],
+      "id": 11
+    },
+    {
+      "idUser": 5,
+      "username": "ahmada",
+      "time": "5/17/2022, 2:58:49 PM",
+      "products": [
+        {
+          "id": 4,
+          "name": "Watch_4",
+          "image": "https://images.unsplash.com/photo-1548171916-c0dea7f94ca6?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=430&q=80",
+          "price": 260000000,
+          "qty": 3,
+          "stock": 10
+        }
+      ],
+      "id": 12
+    }
+  ]
+}
