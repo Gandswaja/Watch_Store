@@ -1,5 +1,5 @@
 import Axios from "axios";
-const api = 'https://deploydatabasewatch.herokuapp.com'
+const api = 'https://watch-database17.herokuapp.com'
 export const login = (username, password) => {
 	return (dispatch) => {
 		Axios.get(`${api}/users?username=${username}&password=${password}`)

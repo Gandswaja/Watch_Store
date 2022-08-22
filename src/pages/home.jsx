@@ -7,7 +7,7 @@ import {
 } from 'react-bootstrap'
 import { Link } from 'react-router-dom'
 import NavigationBar from '../component/navigationBar'
-const api = 'http://localhost:2000'
+const api = 'https://watch-database17.herokuapp.com'
 class HomePage extends React.Component {
 	constructor(props) {
 		super(props)

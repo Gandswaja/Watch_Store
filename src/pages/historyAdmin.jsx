@@ -7,7 +7,7 @@ import {
 	Table,
 	Image
 } from 'react-bootstrap'
-const api = 'http://localhost:2000'
+const api = 'https://watch-database17.herokuapp.com'
 
 class HistoryAdmin extends React.Component {
 	constructor(props) {

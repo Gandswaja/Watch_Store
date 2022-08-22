@@ -1,5 +1,5 @@
 import Axios from 'axios'
-const api = 'https://deploydatabasewatch.herokuapp.com'
+const api = 'https://watch-database17.herokuapp.com'
 export const addCart = (id, data) => {
 	return (dispatch) => {
 		Axios.get(`${api}/users/${id}`)

@@ -9,7 +9,7 @@ import {
 import { connect } from 'react-redux'
 import { Navigate } from 'react-router-dom'
 import { addCart } from '../redux/actions'
-const api = 'http://localhost:2000'
+const api = 'https://watch-database17.herokuapp.com'
 
 class DetailPage extends React.Component {
 	constructor(props) {
