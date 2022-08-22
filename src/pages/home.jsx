@@ -184,7 +184,8 @@ const styles = {
 		justifyContent: 'space-around'
 	},
 	footer: {
-		backgroundColor: "#FFE3DE",
+		backgroundColor: '#050708',
+		color: "#fafcff"
 	},
 	footerList: {
 		display: "flex",
@@ -195,12 +196,14 @@ const styles = {
 	footerItem: {
 		display: "flex",
 		flexDirection: "column",
+		
 	},
 	footerItemh6: {
 		fontWeight: "600",
 		fontSize: "18px",
 		margin: "0",
 		marginBottom: "10px",
+		
 	},
 }
 
